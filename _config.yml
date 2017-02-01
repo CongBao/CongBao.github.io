@@ -7,14 +7,12 @@ description: "A studio to show my personal projects and experience sharing."
 url: https://congbao.github.io/
 baseurl: ""
 
-author:
-  name: Cong Bao
-  email: bao_cong@outlook.com
-  repository: congbao.github.io
-  twitter_username: baocong96
-  github_username: CongBao
-  facebook_username: Cong Bao
-  email_username: bao_cong@outlook.com
+author: Cong Bao
+email: bao_cong@outlook.com
+twitter_username: baocong96
+github_username: CongBao
+facebook_username: Cong Bao
+email_username: bao_cong@outlook.com
 
 # Build settings
 markdown: kramdown
