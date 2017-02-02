@@ -5,9 +5,20 @@
     <description>A studio to show my personal projects and experience sharing.</description>
     <link>https://congbao.github.io//</link>
     <atom:link href="https://congbao.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Feb 2017 22:38:28 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2017 22:38:28 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Feb 2017 09:31:26 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Feb 2017 09:31:26 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Test2</title>
+        <description>&lt;h1 id=&quot;test2&quot;&gt;Test2&lt;/h1&gt;
+</description>
+        <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+        <link>https://congbao.github.io//2017/02/02/Test2/</link>
+        <guid isPermaLink="true">https://congbao.github.io//2017/02/02/Test2/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Markdown Format Test</title>
